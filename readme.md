@@ -1,1 +1,3 @@
-A repository for practicing and learning various technologies.
+## Hello, I am Davit Dvalashvili
+
+### This is the repository for practicing and learning various technologies.
