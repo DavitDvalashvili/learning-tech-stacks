@@ -11,7 +11,16 @@ import "./App.css";
 //import MiuLayout from "./components/MiuLayout";
 //import MiuCard from "./components/MiuCard";
 //import MuiAccordion from "./components/MuiAccordion";
-import MuiImageList from "./components/MuiImageList";
+//import MuiImageList from "./components/MuiImageList";
+// import MuiLink from "./components/MuiLink";
+// import MuiNavbar from "./components/MuiNavbar";
+// import MuiBreadcrumbs from "./components/MuiBreadcrumbs";
+// import MuiDrawer from "./components/MuiDrawer";
+//import MuiSpeedDial from "./components/MuiSpeedDial";
+//import MuiBottomNavigation from "./components/MuiBottomNavigation";
+//import MuiAvatar from "./components/MuiAvatar";
+//import MuiBadge from "./components/MuiBadge";
+import MuiList from "./components/MuiList";
 
 function App() {
   return (
@@ -27,7 +36,16 @@ function App() {
       {/* <MiuLayout /> */}
       {/* <MiuCard /> */}
       {/* <MuiAccordion /> */}
-      <MuiImageList />
+      {/* <MuiImageList /> */}
+      {/* <MuiLink /> */}
+      {/* <MuiNavbar /> */}
+      {/* <MuiBreadcrumbs /> */}
+      {/* <MuiDrawer /> */}
+      {/* <MuiSpeedDial /> */}
+      {/* <MuiBottomNavigation /> */}
+      {/* <MuiAvatar /> */}
+      {/* <MuiBadge /> */}
+      <MuiList />
     </div>
   );
 }
