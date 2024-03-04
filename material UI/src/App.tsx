@@ -1,4 +1,10 @@
 import "./App.css";
+import MuiSkeleton from "./components/MuiSkeleton";
+//import MuiProgress from "./components/MuiProgress";
+//import MuiDialog from "./components/MuiDialog";
+//import MuiSnackBar from "./components/MuiSnackbar";
+//import MuiAlert from "./components/MuiAlert";
+//import MuiTable from "./components/MuiTable";
 // import MuiTypography from "./components/MuiTypography";
 //import MuiButton from "./components/MuiButton";
 //import MiuTextField from "./components/MiuTextField";
@@ -20,7 +26,9 @@ import "./App.css";
 //import MuiBottomNavigation from "./components/MuiBottomNavigation";
 //import MuiAvatar from "./components/MuiAvatar";
 //import MuiBadge from "./components/MuiBadge";
-import MuiList from "./components/MuiList";
+//import MuiList from "./components/MuiList";
+//import MuiChip from "./components/MuiChip";
+//import MuiTooltip from "./components/MuiTooltip";
 
 function App() {
   return (
@@ -45,7 +53,15 @@ function App() {
       {/* <MuiBottomNavigation /> */}
       {/* <MuiAvatar /> */}
       {/* <MuiBadge /> */}
-      <MuiList />
+      {/* <MuiList /> */}
+      {/* <MuiChip /> */}
+      {/* <MuiTooltip /> */}
+      {/* <MuiTable /> */}
+      {/* <MuiAlert /> */}
+      {/* <MuiSnackBar /> */}
+      {/* <MuiDialog /> */}
+      {/* <MuiProgress /> */}
+      <MuiSkeleton />
     </div>
   );
 }
