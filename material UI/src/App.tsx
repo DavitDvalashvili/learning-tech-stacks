@@ -1,25 +1,25 @@
 import "./App.css";
 //import MuiLoadingButton from "./components/MuiLoadingButton";
-//import MuiSkeleton from "./components/MuiSkeleton";
+import MuiSkeleton from "./components/MuiSkeleton";
 //import MuiProgress from "./components/MuiProgress";
 //import MuiDialog from "./components/MuiDialog";
 //import MuiSnackBar from "./components/MuiSnackbar";
 //import MuiAlert from "./components/MuiAlert";
 //import MuiTable from "./components/MuiTable";
-// import MuiTypography from "./components/MuiTypography";
+//import MuiTypography from "./components/MuiTypography";
 //import MuiButton from "./components/MuiButton";
 //import MiuTextField from "./components/MiuTextField";
-// import MuiSelect from "./components/MuiSelect";
+//import MuiSelect from "./components/MuiSelect";
 //import MiuRadioButton from "./components/MiuRadioButton";
 //import MiuCheckBox from "./components/MiuCheckBox";
 //import MiuSwitch from "./components/MiuSwitch";
 //import MiuRating from "./components/MiuRating";
 //import MiuAutoComplete from "./components/MiuAutoComplete";
-//import MiuLayout from "./components/MiuLayout";
+import MiuLayout from "./components/MiuLayout";
 //import MiuCard from "./components/MiuCard";
 //import MuiAccordion from "./components/MuiAccordion";
 //import MuiImageList from "./components/MuiImageList";
-// import MuiLink from "./components/MuiLink";
+//import MuiLink from "./components/MuiLink";
 // import MuiNavbar from "./components/MuiNavbar";
 // import MuiBreadcrumbs from "./components/MuiBreadcrumbs";
 // import MuiDrawer from "./components/MuiDrawer";
@@ -32,7 +32,7 @@ import "./App.css";
 //import MuiTooltip from "./components/MuiTooltip";
 import { LocalizationProvider } from "@mui/x-date-pickers";
 import { AdapterDayjs } from "@mui/x-date-pickers/AdapterDayjs";
-import MuiResponsiveness from "./components/MuiResponsiveness";
+//import MuiResponsiveness from "./components/MuiResponsiveness";
 //import MuiMasonry from "./components/MuiMasonry";
 //import MuiTimeline from "./components/MuiTimeline";
 //import MuiTabs from "./components/MuiTabs";
@@ -67,7 +67,7 @@ function App() {
           {/* <MiuCheckBox /> */}
           {/* <MiuRating /> */}
           {/* <MiuAutoComplete /> */}
-          {/* <MiuLayout /> */}
+          <MiuLayout />
           {/* <MiuCard /> */}
           {/* <MuiAccordion /> */}
           {/* <MuiImageList /> */}
@@ -87,13 +87,13 @@ function App() {
           {/* <MuiSnackBar /> */}
           {/* <MuiDialog /> */}
           {/* <MuiProgress /> */}
-          {/* <MuiSkeleton /> */}
+          <MuiSkeleton />
           {/* <MuiLoadingButton /> */}
           {/* <MuiDateTimePIcker /> */}
           {/* <MuiTabs /> */}
           {/* <MuiTimeline /> */}
           {/* <MuiMasonry /> */}
-          <MuiResponsiveness />
+          {/* <MuiResponsiveness /> */}
         </div>
       </LocalizationProvider>
     </ThemeProvider>

@@ -6,10 +6,16 @@ const MuiLoadingButton = () => {
   return (
     <Stack spacing={2} direction="row">
       <LoadingButton variant="outlined">submit</LoadingButton>
-      <LoadingButton loading variant="outlined">
+      <LoadingButton
+        //loading
+        variant="outlined"
+      >
         submit
       </LoadingButton>
-      <LoadingButton loadingIndicator="Loading" variant="outlined">
+      <LoadingButton
+        //loadingIndicator="Loading"
+        variant="outlined"
+      >
         Fetch Data
       </LoadingButton>
       <LoadingButton loading loadingIndicator="Loading" variant="outlined">
@@ -23,9 +29,9 @@ const MuiLoadingButton = () => {
         Fetch Data
       </LoadingButton>
       <LoadingButton
-        loading
+        //loading
         loadingPosition="start"
-        startIcon={<SaveIcon />}
+        //startIcon={<SaveIcon />}
         variant="outlined"
       >
         Fetch Data
