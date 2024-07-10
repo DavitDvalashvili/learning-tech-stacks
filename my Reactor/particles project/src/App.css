@@ -1,0 +1,13 @@
+.app {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(
+        to top left,
+        #131941,
+        #0e314a,
+        #131941,
+        #0e314a
+      );
+      margin: 0px;
+      padding: 0px;
+}

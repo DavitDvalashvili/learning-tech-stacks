@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.child {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.App {
+    border-width: 8px;
+    border-color: blue;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+}
