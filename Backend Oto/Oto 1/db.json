@@ -1,0 +1,97 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "new note",
+      "date": "Sat Oct 07 2023 08:15:09 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "new note 2",
+      "date": "Sat Oct 07 2023 08:17:27 GMT+0400 (Georgia Standard Time)",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "new data",
+      "date": "Thu Nov 02 2023 19:01:05 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "new data 2",
+      "date": "Thu Nov 02 2023 19:01:10 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 7
+    },
+    {
+      "content": "Hello express",
+      "date": "Thu Nov 02 2023 19:01:44 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 8
+    },
+    {
+      "content": "",
+      "date": "Thu Nov 02 2023 19:03:44 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 9
+    },
+    {
+      "content": "",
+      "date": "Thu Nov 02 2023 19:03:45 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 10
+    },
+    {
+      "content": "",
+      "date": "Thu Nov 02 2023 19:03:46 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 11
+    },
+    {
+      "content": "",
+      "date": "Thu Nov 02 2023 19:03:46 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 12
+    },
+    {
+      "content": "new note",
+      "date": "Thu Nov 02 2023 19:03:51 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 13
+    },
+    {
+      "content": "new note",
+      "date": "Thu Nov 02 2023 19:03:52 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 14
+    },
+    {
+      "content": "new note",
+      "date": "Thu Nov 02 2023 19:03:53 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 15
+    },
+    {
+      "content": "new note",
+      "date": "Thu Nov 02 2023 19:03:53 GMT+0400 (Georgia Standard Time)",
+      "important": true,
+      "id": 16
+    }
+  ]
+}
